@@ -1,0 +1,313 @@
+2020-02-20 11:43:16,590 main INFO  book.BookStore (BookStore.java:61) - 2020-02-20T19:43:16.588910400Z
+2020-02-20 11:43:16,594 main INFO  book.BookStore (BookStore.java:62) - Starting Logging
+2020-02-20 11:43:16,594 main INFO  book.BookStore (BookStore.java:48) - Created Bcmc
+2020-02-20 11:43:16,600 main DEBUG book.BookStore (BookStore.java:108) - run()
+2020-02-20 11:43:16,600 main DEBUG data.Database (Database.java:23) - Starting data loading...
+2020-02-20 11:43:16,601 main DEBUG io.CustomerReader (CustomerReader.java:90) - Reading C:\Users\natha\eclipse-workspace\A01164474_assignment\out\customers.dat
+2020-02-20 11:43:16,607 main DEBUG data.Database (Database.java:26) - Customer has been loaded
+2020-02-20 11:43:16,612 main DEBUG io.BookReader (BookReader.java:40) - Reading C:\Users\natha\eclipse-workspace\A01164474_assignment\out\books500.csv
+2020-02-20 11:43:16,624 main DEBUG data.Database (Database.java:30) - Book has been loaded
+2020-02-20 11:43:16,625 main DEBUG io.PurchaseReader (PurchaseReader.java:40) - Reading C:\Users\natha\eclipse-workspace\A01164474_assignment\out\purchases.csv
+2020-02-20 11:43:16,626 main DEBUG data.Database (Database.java:34) - Purchase has been loaded
+2020-02-20 11:43:16,626 main DEBUG data.Database (Database.java:35) - All data has been loaded successfully!
+2020-02-20 11:43:16,626 main DEBUG book.BookStore (BookStore.java:121) - generating the reports
+2020-02-20 11:43:16,627 main DEBUG book.BookStore (BookStore.java:124) - generating the customer report
+2020-02-20 11:43:16,685 main DEBUG book.BookStore (BookStore.java:128) - isByJoinDate = false
+2020-02-20 11:43:16,685 main DEBUG book.BookStore (BookStore.java:129) - isByJoinDateDescending = false
+2020-02-20 11:43:16,689 main DEBUG book.BookStore (BookStore.java:131) - Customer report closed
+2020-02-20 11:43:16,689 main INFO  book.BookStore (BookStore.java:83) - 2020-02-20T19:43:16.689640800Z
+2020-02-20 11:43:16,691 main INFO  book.BookStore (BookStore.java:84) - Duration: 100 ms
+2020-02-20 11:43:36,865 main INFO  book.BookStore (BookStore.java:61) - 2020-02-20T19:43:36.862026900Z
+2020-02-20 11:43:36,868 main INFO  book.BookStore (BookStore.java:62) - Starting Logging
+2020-02-20 11:43:36,868 main INFO  book.BookStore (BookStore.java:48) - Created Bcmc
+2020-02-20 11:43:36,873 main DEBUG book.BookStore (BookStore.java:108) - run()
+2020-02-20 11:43:36,874 main DEBUG data.Database (Database.java:23) - Starting data loading...
+2020-02-20 11:43:36,874 main DEBUG io.CustomerReader (CustomerReader.java:90) - Reading C:\Users\natha\eclipse-workspace\A01164474_assignment\out\customers.dat
+2020-02-20 11:43:36,880 main DEBUG data.Database (Database.java:26) - Customer has been loaded
+2020-02-20 11:43:36,886 main DEBUG io.BookReader (BookReader.java:40) - Reading C:\Users\natha\eclipse-workspace\A01164474_assignment\out\books500.csv
+2020-02-20 11:43:36,897 main DEBUG data.Database (Database.java:30) - Book has been loaded
+2020-02-20 11:43:36,899 main DEBUG io.PurchaseReader (PurchaseReader.java:40) - Reading C:\Users\natha\eclipse-workspace\A01164474_assignment\out\purchases.csv
+2020-02-20 11:43:36,901 main DEBUG data.Database (Database.java:34) - Purchase has been loaded
+2020-02-20 11:43:36,901 main DEBUG data.Database (Database.java:35) - All data has been loaded successfully!
+2020-02-20 11:43:36,901 main DEBUG book.BookStore (BookStore.java:121) - generating the reports
+2020-02-20 11:43:36,902 main DEBUG book.BookStore (BookStore.java:136) - generating the Book report
+2020-02-20 11:43:37,164 main DEBUG book.BookStore (BookStore.java:140) - isByAuthor = false
+2020-02-20 11:43:37,165 main DEBUG book.BookStore (BookStore.java:141) - isByAuthorDescending = false
+2020-02-20 11:43:37,166 main DEBUG book.BookStore (BookStore.java:142) - isByTitle = false
+2020-02-20 11:43:37,166 main DEBUG book.BookStore (BookStore.java:143) - isByTitleDescending = false
+2020-02-20 11:43:37,172 main DEBUG book.BookStore (BookStore.java:145) - Book report closed
+2020-02-20 11:43:37,172 main INFO  book.BookStore (BookStore.java:83) - 2020-02-20T19:43:37.172268500Z
+2020-02-20 11:43:37,173 main INFO  book.BookStore (BookStore.java:84) - Duration: 310 ms
+2020-02-20 11:43:49,077 main INFO  book.BookStore (BookStore.java:61) - 2020-02-20T19:43:49.074594500Z
+2020-02-20 11:43:49,080 main INFO  book.BookStore (BookStore.java:62) - Starting Logging
+2020-02-20 11:43:49,080 main INFO  book.BookStore (BookStore.java:48) - Created Bcmc
+2020-02-20 11:43:49,086 main DEBUG book.BookStore (BookStore.java:108) - run()
+2020-02-20 11:43:49,087 main DEBUG data.Database (Database.java:23) - Starting data loading...
+2020-02-20 11:43:49,087 main DEBUG io.CustomerReader (CustomerReader.java:90) - Reading C:\Users\natha\eclipse-workspace\A01164474_assignment\out\customers.dat
+2020-02-20 11:43:49,093 main DEBUG data.Database (Database.java:26) - Customer has been loaded
+2020-02-20 11:43:49,101 main DEBUG io.BookReader (BookReader.java:40) - Reading C:\Users\natha\eclipse-workspace\A01164474_assignment\out\books500.csv
+2020-02-20 11:43:49,114 main DEBUG data.Database (Database.java:30) - Book has been loaded
+2020-02-20 11:43:49,115 main DEBUG io.PurchaseReader (PurchaseReader.java:40) - Reading C:\Users\natha\eclipse-workspace\A01164474_assignment\out\purchases.csv
+2020-02-20 11:43:49,117 main DEBUG data.Database (Database.java:34) - Purchase has been loaded
+2020-02-20 11:43:49,117 main DEBUG data.Database (Database.java:35) - All data has been loaded successfully!
+2020-02-20 11:43:49,117 main DEBUG book.BookStore (BookStore.java:121) - generating the reports
+2020-02-20 11:43:49,117 main DEBUG book.BookStore (BookStore.java:150) - generating the purchase report
+2020-02-20 11:43:49,168 main DEBUG book.BookStore (BookStore.java:154) - isByLastName = false
+2020-02-20 11:43:49,169 main DEBUG book.BookStore (BookStore.java:155) - isByLastNameDescending = false
+2020-02-20 11:43:49,169 main DEBUG book.BookStore (BookStore.java:156) - isByTitle = false
+2020-02-20 11:43:49,171 main DEBUG book.BookStore (BookStore.java:157) - isByTitleDescending = false
+2020-02-20 11:43:49,171 main DEBUG book.BookStore (BookStore.java:158) - hasTotal = false
+2020-02-20 11:43:49,175 main DEBUG book.BookStore (BookStore.java:160) - Purchase report closed
+2020-02-20 11:43:49,175 main INFO  book.BookStore (BookStore.java:83) - 2020-02-20T19:43:49.175294200Z
+2020-02-20 11:43:49,176 main INFO  book.BookStore (BookStore.java:84) - Duration: 100 ms
+2020-02-20 11:44:10,707 main INFO  book.BookStore (BookStore.java:61) - 2020-02-20T19:44:10.704191600Z
+2020-02-20 11:44:10,710 main INFO  book.BookStore (BookStore.java:62) - Starting Logging
+2020-02-20 11:44:10,710 main INFO  book.BookStore (BookStore.java:48) - Created Bcmc
+2020-02-20 11:44:10,716 main DEBUG book.BookStore (BookStore.java:108) - run()
+2020-02-20 11:44:10,716 main DEBUG data.Database (Database.java:23) - Starting data loading...
+2020-02-20 11:44:10,717 main DEBUG io.CustomerReader (CustomerReader.java:90) - Reading C:\Users\natha\eclipse-workspace\A01164474_assignment\out\customers.dat
+2020-02-20 11:44:10,723 main DEBUG data.Database (Database.java:26) - Customer has been loaded
+2020-02-20 11:44:10,728 main DEBUG io.BookReader (BookReader.java:40) - Reading C:\Users\natha\eclipse-workspace\A01164474_assignment\out\books500.csv
+2020-02-20 11:44:10,740 main DEBUG data.Database (Database.java:30) - Book has been loaded
+2020-02-20 11:44:10,742 main DEBUG io.PurchaseReader (PurchaseReader.java:40) - Reading C:\Users\natha\eclipse-workspace\A01164474_assignment\out\purchases.csv
+2020-02-20 11:44:10,743 main DEBUG data.Database (Database.java:34) - Purchase has been loaded
+2020-02-20 11:44:10,743 main DEBUG data.Database (Database.java:35) - All data has been loaded successfully!
+2020-02-20 11:44:10,744 main DEBUG book.BookStore (BookStore.java:121) - generating the reports
+2020-02-20 11:44:10,744 main DEBUG book.BookStore (BookStore.java:124) - generating the customer report
+2020-02-20 11:44:10,805 main DEBUG book.BookStore (BookStore.java:128) - isByJoinDate = false
+2020-02-20 11:44:10,806 main DEBUG book.BookStore (BookStore.java:129) - isByJoinDateDescending = false
+2020-02-20 11:44:10,810 main DEBUG book.BookStore (BookStore.java:131) - Customer report closed
+2020-02-20 11:44:10,810 main DEBUG book.BookStore (BookStore.java:136) - generating the Book report
+2020-02-20 11:44:11,075 main DEBUG book.BookStore (BookStore.java:140) - isByAuthor = false
+2020-02-20 11:44:11,075 main DEBUG book.BookStore (BookStore.java:141) - isByAuthorDescending = false
+2020-02-20 11:44:11,075 main DEBUG book.BookStore (BookStore.java:142) - isByTitle = false
+2020-02-20 11:44:11,076 main DEBUG book.BookStore (BookStore.java:143) - isByTitleDescending = false
+2020-02-20 11:44:11,082 main DEBUG book.BookStore (BookStore.java:145) - Book report closed
+2020-02-20 11:44:11,082 main DEBUG book.BookStore (BookStore.java:150) - generating the purchase report
+2020-02-20 11:44:11,136 main DEBUG book.BookStore (BookStore.java:154) - isByLastName = false
+2020-02-20 11:44:11,136 main DEBUG book.BookStore (BookStore.java:155) - isByLastNameDescending = false
+2020-02-20 11:44:11,136 main DEBUG book.BookStore (BookStore.java:156) - isByTitle = false
+2020-02-20 11:44:11,137 main DEBUG book.BookStore (BookStore.java:157) - isByTitleDescending = false
+2020-02-20 11:44:11,137 main DEBUG book.BookStore (BookStore.java:158) - hasTotal = false
+2020-02-20 11:44:11,140 main DEBUG book.BookStore (BookStore.java:160) - Purchase report closed
+2020-02-20 11:44:11,140 main INFO  book.BookStore (BookStore.java:83) - 2020-02-20T19:44:11.140993600Z
+2020-02-20 11:44:11,142 main INFO  book.BookStore (BookStore.java:84) - Duration: 436 ms
+2020-02-20 11:44:47,298 main INFO  book.BookStore (BookStore.java:61) - 2020-02-20T19:44:47.295374800Z
+2020-02-20 11:44:47,301 main INFO  book.BookStore (BookStore.java:62) - Starting Logging
+2020-02-20 11:44:47,301 main INFO  book.BookStore (BookStore.java:48) - Created Bcmc
+2020-02-20 11:44:47,307 main DEBUG book.BookStore (BookStore.java:108) - run()
+2020-02-20 11:44:47,308 main DEBUG data.Database (Database.java:23) - Starting data loading...
+2020-02-20 11:44:47,309 main DEBUG io.CustomerReader (CustomerReader.java:90) - Reading C:\Users\natha\eclipse-workspace\A01164474_assignment\out\customers.dat
+2020-02-20 11:44:47,314 main DEBUG data.Database (Database.java:26) - Customer has been loaded
+2020-02-20 11:44:47,323 main DEBUG io.BookReader (BookReader.java:40) - Reading C:\Users\natha\eclipse-workspace\A01164474_assignment\out\books500.csv
+2020-02-20 11:44:47,335 main DEBUG data.Database (Database.java:30) - Book has been loaded
+2020-02-20 11:44:47,336 main DEBUG io.PurchaseReader (PurchaseReader.java:40) - Reading C:\Users\natha\eclipse-workspace\A01164474_assignment\out\purchases.csv
+2020-02-20 11:44:47,338 main DEBUG data.Database (Database.java:34) - Purchase has been loaded
+2020-02-20 11:44:47,338 main DEBUG data.Database (Database.java:35) - All data has been loaded successfully!
+2020-02-20 11:44:47,338 main DEBUG book.BookStore (BookStore.java:121) - generating the reports
+2020-02-20 11:44:47,338 main DEBUG book.BookStore (BookStore.java:124) - generating the customer report
+2020-02-20 11:44:47,394 main DEBUG book.BookStore (BookStore.java:128) - isByJoinDate = true
+2020-02-20 11:44:47,394 main DEBUG book.BookStore (BookStore.java:129) - isByJoinDateDescending = false
+2020-02-20 11:44:47,398 main DEBUG book.BookStore (BookStore.java:131) - Customer report closed
+2020-02-20 11:44:47,399 main INFO  book.BookStore (BookStore.java:83) - 2020-02-20T19:44:47.399104600Z
+2020-02-20 11:44:47,400 main INFO  book.BookStore (BookStore.java:84) - Duration: 103 ms
+2020-02-20 11:48:21,271 main INFO  book.BookStore (BookStore.java:61) - 2020-02-20T19:48:21.268015Z
+2020-02-20 11:48:21,273 main INFO  book.BookStore (BookStore.java:62) - Starting Logging
+2020-02-20 11:48:21,274 main INFO  book.BookStore (BookStore.java:48) - Created Bcmc
+2020-02-20 11:48:21,280 main DEBUG book.BookStore (BookStore.java:108) - run()
+2020-02-20 11:48:21,280 main DEBUG data.Database (Database.java:23) - Starting data loading...
+2020-02-20 11:48:21,281 main DEBUG io.CustomerReader (CustomerReader.java:90) - Reading C:\Users\natha\eclipse-workspace\A01164474_assignment\out\customers.dat
+2020-02-20 11:48:21,287 main DEBUG data.Database (Database.java:26) - Customer has been loaded
+2020-02-20 11:48:21,292 main DEBUG io.BookReader (BookReader.java:40) - Reading C:\Users\natha\eclipse-workspace\A01164474_assignment\out\books500.csv
+2020-02-20 11:48:21,305 main DEBUG data.Database (Database.java:30) - Book has been loaded
+2020-02-20 11:48:21,307 main DEBUG io.PurchaseReader (PurchaseReader.java:40) - Reading C:\Users\natha\eclipse-workspace\A01164474_assignment\out\purchases.csv
+2020-02-20 11:48:21,308 main DEBUG data.Database (Database.java:34) - Purchase has been loaded
+2020-02-20 11:48:21,309 main DEBUG data.Database (Database.java:35) - All data has been loaded successfully!
+2020-02-20 11:48:21,309 main DEBUG book.BookStore (BookStore.java:121) - generating the reports
+2020-02-20 11:48:21,309 main DEBUG book.BookStore (BookStore.java:124) - generating the customer report
+2020-02-20 11:48:21,374 main DEBUG book.BookStore (BookStore.java:128) - isByJoinDate = true
+2020-02-20 11:48:21,374 main DEBUG book.BookStore (BookStore.java:129) - isByJoinDateDescending = true
+2020-02-20 11:48:21,378 main DEBUG book.BookStore (BookStore.java:131) - Customer report closed
+2020-02-20 11:48:21,378 main INFO  book.BookStore (BookStore.java:83) - 2020-02-20T19:48:21.378718900Z
+2020-02-20 11:48:21,379 main INFO  book.BookStore (BookStore.java:84) - Duration: 110 ms
+2020-02-20 11:48:47,857 main INFO  book.BookStore (BookStore.java:61) - 2020-02-20T19:48:47.854475Z
+2020-02-20 11:48:47,860 main INFO  book.BookStore (BookStore.java:62) - Starting Logging
+2020-02-20 11:48:47,860 main INFO  book.BookStore (BookStore.java:48) - Created Bcmc
+2020-02-20 11:48:47,866 main DEBUG book.BookStore (BookStore.java:108) - run()
+2020-02-20 11:48:47,867 main DEBUG data.Database (Database.java:23) - Starting data loading...
+2020-02-20 11:48:47,868 main DEBUG io.CustomerReader (CustomerReader.java:90) - Reading C:\Users\natha\eclipse-workspace\A01164474_assignment\out\customers.dat
+2020-02-20 11:48:47,873 main DEBUG data.Database (Database.java:26) - Customer has been loaded
+2020-02-20 11:48:47,878 main DEBUG io.BookReader (BookReader.java:40) - Reading C:\Users\natha\eclipse-workspace\A01164474_assignment\out\books500.csv
+2020-02-20 11:48:47,889 main DEBUG data.Database (Database.java:30) - Book has been loaded
+2020-02-20 11:48:47,890 main DEBUG io.PurchaseReader (PurchaseReader.java:40) - Reading C:\Users\natha\eclipse-workspace\A01164474_assignment\out\purchases.csv
+2020-02-20 11:48:47,892 main DEBUG data.Database (Database.java:34) - Purchase has been loaded
+2020-02-20 11:48:47,892 main DEBUG data.Database (Database.java:35) - All data has been loaded successfully!
+2020-02-20 11:48:47,892 main DEBUG book.BookStore (BookStore.java:121) - generating the reports
+2020-02-20 11:48:47,892 main DEBUG book.BookStore (BookStore.java:136) - generating the Book report
+2020-02-20 11:48:48,152 main DEBUG book.BookStore (BookStore.java:140) - isByAuthor = true
+2020-02-20 11:48:48,153 main DEBUG book.BookStore (BookStore.java:141) - isByAuthorDescending = false
+2020-02-20 11:48:48,154 main DEBUG book.BookStore (BookStore.java:142) - isByTitle = false
+2020-02-20 11:48:48,154 main DEBUG book.BookStore (BookStore.java:143) - isByTitleDescending = false
+2020-02-20 11:48:48,168 main DEBUG book.BookStore (BookStore.java:145) - Book report closed
+2020-02-20 11:48:48,168 main INFO  book.BookStore (BookStore.java:83) - 2020-02-20T19:48:48.168634800Z
+2020-02-20 11:48:48,169 main INFO  book.BookStore (BookStore.java:84) - Duration: 314 ms
+2020-02-20 11:49:58,502 main INFO  book.BookStore (BookStore.java:61) - 2020-02-20T19:49:58.500568700Z
+2020-02-20 11:49:58,505 main INFO  book.BookStore (BookStore.java:62) - Starting Logging
+2020-02-20 11:49:58,506 main INFO  book.BookStore (BookStore.java:48) - Created Bcmc
+2020-02-20 11:49:58,511 main DEBUG book.BookStore (BookStore.java:108) - run()
+2020-02-20 11:49:58,512 main DEBUG data.Database (Database.java:23) - Starting data loading...
+2020-02-20 11:49:58,513 main DEBUG io.CustomerReader (CustomerReader.java:90) - Reading C:\Users\natha\eclipse-workspace\A01164474_assignment\out\customers.dat
+2020-02-20 11:49:58,518 main DEBUG data.Database (Database.java:26) - Customer has been loaded
+2020-02-20 11:49:58,524 main DEBUG io.BookReader (BookReader.java:40) - Reading C:\Users\natha\eclipse-workspace\A01164474_assignment\out\books500.csv
+2020-02-20 11:49:58,537 main DEBUG data.Database (Database.java:30) - Book has been loaded
+2020-02-20 11:49:58,538 main DEBUG io.PurchaseReader (PurchaseReader.java:40) - Reading C:\Users\natha\eclipse-workspace\A01164474_assignment\out\purchases.csv
+2020-02-20 11:49:58,539 main DEBUG data.Database (Database.java:34) - Purchase has been loaded
+2020-02-20 11:49:58,539 main DEBUG data.Database (Database.java:35) - All data has been loaded successfully!
+2020-02-20 11:49:58,539 main DEBUG book.BookStore (BookStore.java:121) - generating the reports
+2020-02-20 11:49:58,540 main DEBUG book.BookStore (BookStore.java:150) - generating the purchase report
+2020-02-20 11:49:58,595 main DEBUG book.BookStore (BookStore.java:154) - isByLastName = true
+2020-02-20 11:49:58,596 main DEBUG book.BookStore (BookStore.java:155) - isByLastNameDescending = true
+2020-02-20 11:49:58,596 main DEBUG book.BookStore (BookStore.java:156) - isByTitle = false
+2020-02-20 11:49:58,597 main DEBUG book.BookStore (BookStore.java:157) - isByTitleDescending = true
+2020-02-20 11:49:58,598 main DEBUG book.BookStore (BookStore.java:158) - hasTotal = false
+2020-02-20 11:49:58,647 main DEBUG book.BookStore (BookStore.java:160) - Purchase report closed
+2020-02-20 11:49:58,648 main INFO  book.BookStore (BookStore.java:83) - 2020-02-20T19:49:58.648485Z
+2020-02-20 11:49:58,652 main INFO  book.BookStore (BookStore.java:84) - Duration: 147 ms
+2020-02-20 11:52:57,204 main INFO  book.BookStore (BookStore.java:61) - 2020-02-20T19:52:57.202625200Z
+2020-02-20 11:52:57,208 main INFO  book.BookStore (BookStore.java:62) - Starting Logging
+2020-02-20 11:52:57,208 main INFO  book.BookStore (BookStore.java:48) - Created Bcmc
+2020-02-20 11:52:57,214 main DEBUG book.BookStore (BookStore.java:108) - run()
+2020-02-20 11:52:57,214 main DEBUG data.Database (Database.java:23) - Starting data loading...
+2020-02-20 11:52:57,215 main DEBUG io.CustomerReader (CustomerReader.java:90) - Reading C:\Users\natha\eclipse-workspace\A01164474_assignment\out\customers.dat
+2020-02-20 11:52:57,221 main DEBUG data.Database (Database.java:26) - Customer has been loaded
+2020-02-20 11:52:57,226 main DEBUG io.BookReader (BookReader.java:40) - Reading C:\Users\natha\eclipse-workspace\A01164474_assignment\out\books500.csv
+2020-02-20 11:52:57,238 main DEBUG data.Database (Database.java:30) - Book has been loaded
+2020-02-20 11:52:57,240 main DEBUG io.PurchaseReader (PurchaseReader.java:40) - Reading C:\Users\natha\eclipse-workspace\A01164474_assignment\out\purchases.csv
+2020-02-20 11:52:57,241 main DEBUG data.Database (Database.java:34) - Purchase has been loaded
+2020-02-20 11:52:57,241 main DEBUG data.Database (Database.java:35) - All data has been loaded successfully!
+2020-02-20 11:52:57,241 main DEBUG book.BookStore (BookStore.java:121) - generating the reports
+2020-02-20 11:52:57,242 main DEBUG book.BookStore (BookStore.java:150) - generating the purchase report
+2020-02-20 11:52:57,307 main DEBUG book.BookStore (BookStore.java:154) - isByLastName = false
+2020-02-20 11:52:57,307 main DEBUG book.BookStore (BookStore.java:155) - isByLastNameDescending = false
+2020-02-20 11:52:57,307 main DEBUG book.BookStore (BookStore.java:156) - isByTitle = true
+2020-02-20 11:52:57,308 main DEBUG book.BookStore (BookStore.java:157) - isByTitleDescending = false
+2020-02-20 11:52:57,309 main DEBUG book.BookStore (BookStore.java:158) - hasTotal = false
+2020-02-20 11:52:57,313 main DEBUG book.BookStore (BookStore.java:160) - Purchase report closed
+2020-02-20 11:52:57,313 main INFO  book.BookStore (BookStore.java:83) - 2020-02-20T19:52:57.313329600Z
+2020-02-20 11:52:57,313 main INFO  book.BookStore (BookStore.java:84) - Duration: 110 ms
+2020-02-20 11:53:16,057 main INFO  book.BookStore (BookStore.java:61) - 2020-02-20T19:53:16.054077500Z
+2020-02-20 11:53:16,060 main INFO  book.BookStore (BookStore.java:62) - Starting Logging
+2020-02-20 11:53:16,061 main INFO  book.BookStore (BookStore.java:48) - Created Bcmc
+2020-02-20 11:53:16,066 main DEBUG book.BookStore (BookStore.java:108) - run()
+2020-02-20 11:53:16,067 main DEBUG data.Database (Database.java:23) - Starting data loading...
+2020-02-20 11:53:16,068 main DEBUG io.CustomerReader (CustomerReader.java:90) - Reading C:\Users\natha\eclipse-workspace\A01164474_assignment\out\customers.dat
+2020-02-20 11:53:16,073 main DEBUG data.Database (Database.java:26) - Customer has been loaded
+2020-02-20 11:53:16,082 main DEBUG io.BookReader (BookReader.java:40) - Reading C:\Users\natha\eclipse-workspace\A01164474_assignment\out\books500.csv
+2020-02-20 11:53:16,093 main DEBUG data.Database (Database.java:30) - Book has been loaded
+2020-02-20 11:53:16,094 main DEBUG io.PurchaseReader (PurchaseReader.java:40) - Reading C:\Users\natha\eclipse-workspace\A01164474_assignment\out\purchases.csv
+2020-02-20 11:53:16,095 main DEBUG data.Database (Database.java:34) - Purchase has been loaded
+2020-02-20 11:53:16,096 main DEBUG data.Database (Database.java:35) - All data has been loaded successfully!
+2020-02-20 11:53:16,096 main DEBUG book.BookStore (BookStore.java:121) - generating the reports
+2020-02-20 11:53:16,096 main DEBUG book.BookStore (BookStore.java:150) - generating the purchase report
+2020-02-20 11:53:16,148 main DEBUG book.BookStore (BookStore.java:154) - isByLastName = false
+2020-02-20 11:53:16,148 main DEBUG book.BookStore (BookStore.java:155) - isByLastNameDescending = false
+2020-02-20 11:53:16,149 main DEBUG book.BookStore (BookStore.java:156) - isByTitle = true
+2020-02-20 11:53:16,150 main DEBUG book.BookStore (BookStore.java:157) - isByTitleDescending = false
+2020-02-20 11:53:16,150 main DEBUG book.BookStore (BookStore.java:158) - hasTotal = true
+2020-02-20 11:53:16,154 main DEBUG book.BookStore (BookStore.java:160) - Purchase report closed
+2020-02-20 11:53:16,154 main INFO  book.BookStore (BookStore.java:83) - 2020-02-20T19:53:16.154782600Z
+2020-02-20 11:53:16,155 main INFO  book.BookStore (BookStore.java:84) - Duration: 100 ms
+2020-02-20 11:53:39,352 main INFO  book.BookStore (BookStore.java:61) - 2020-02-20T19:53:39.349092500Z
+2020-02-20 11:53:39,356 main INFO  book.BookStore (BookStore.java:62) - Starting Logging
+2020-02-20 11:53:39,356 main INFO  book.BookStore (BookStore.java:48) - Created Bcmc
+2020-02-20 11:53:39,362 main DEBUG book.BookStore (BookStore.java:108) - run()
+2020-02-20 11:53:39,362 main DEBUG data.Database (Database.java:23) - Starting data loading...
+2020-02-20 11:53:39,363 main DEBUG io.CustomerReader (CustomerReader.java:90) - Reading C:\Users\natha\eclipse-workspace\A01164474_assignment\out\customers.dat
+2020-02-20 11:53:39,368 main DEBUG data.Database (Database.java:26) - Customer has been loaded
+2020-02-20 11:53:39,373 main DEBUG io.BookReader (BookReader.java:40) - Reading C:\Users\natha\eclipse-workspace\A01164474_assignment\out\books500.csv
+2020-02-20 11:53:39,384 main DEBUG data.Database (Database.java:30) - Book has been loaded
+2020-02-20 11:53:39,385 main DEBUG io.PurchaseReader (PurchaseReader.java:40) - Reading C:\Users\natha\eclipse-workspace\A01164474_assignment\out\purchases.csv
+2020-02-20 11:53:39,387 main DEBUG data.Database (Database.java:34) - Purchase has been loaded
+2020-02-20 11:53:39,387 main DEBUG data.Database (Database.java:35) - All data has been loaded successfully!
+2020-02-20 11:53:39,387 main DEBUG book.BookStore (BookStore.java:121) - generating the reports
+2020-02-20 11:53:39,387 main DEBUG book.BookStore (BookStore.java:150) - generating the purchase report
+2020-02-20 11:53:39,395 main DEBUG book.BookStore (BookStore.java:154) - isByLastName = false
+2020-02-20 11:53:39,395 main DEBUG book.BookStore (BookStore.java:155) - isByLastNameDescending = true
+2020-02-20 11:53:39,395 main DEBUG book.BookStore (BookStore.java:156) - isByTitle = true
+2020-02-20 11:53:39,395 main DEBUG book.BookStore (BookStore.java:157) - isByTitleDescending = true
+2020-02-20 11:53:39,395 main DEBUG book.BookStore (BookStore.java:158) - hasTotal = true
+2020-02-20 11:53:39,399 main DEBUG book.BookStore (BookStore.java:160) - Purchase report closed
+2020-02-20 11:53:39,399 main INFO  book.BookStore (BookStore.java:83) - 2020-02-20T19:53:39.399956400Z
+2020-02-20 11:53:39,399 main INFO  book.BookStore (BookStore.java:84) - Duration: 50 ms
+2020-02-20 12:17:17,133 main INFO  book.BookStore (BookStore.java:62) - 2020-02-20T20:17:17.130942700Z
+2020-02-20 12:17:17,137 main INFO  book.BookStore (BookStore.java:63) - Starting Logging
+2020-02-20 12:17:17,137 main INFO  book.BookStore (BookStore.java:49) - Created Bcmc
+2020-02-20 12:17:17,143 main DEBUG book.BookStore (BookStore.java:109) - run()
+2020-02-20 12:17:17,143 main DEBUG data.Database (Database.java:23) - Starting data loading...
+2020-02-20 12:17:17,144 main DEBUG io.CustomerReader (CustomerReader.java:90) - Reading C:\Users\natha\eclipse-workspace\A01164474_assignment\out\customers.dat
+2020-02-20 12:17:17,150 main DEBUG data.Database (Database.java:26) - Customer has been loaded
+2020-02-20 12:17:17,159 main DEBUG io.BookReader (BookReader.java:40) - Reading C:\Users\natha\eclipse-workspace\A01164474_assignment\out\books500.csv
+2020-02-20 12:17:17,171 main DEBUG data.Database (Database.java:30) - Book has been loaded
+2020-02-20 12:17:17,172 main DEBUG io.PurchaseReader (PurchaseReader.java:40) - Reading C:\Users\natha\eclipse-workspace\A01164474_assignment\out\purchases.csv
+2020-02-20 12:17:17,173 main DEBUG data.Database (Database.java:34) - Purchase has been loaded
+2020-02-20 12:17:17,174 main DEBUG data.Database (Database.java:35) - All data has been loaded successfully!
+2020-02-20 12:17:17,174 main DEBUG book.BookStore (BookStore.java:122) - generating the reports
+2020-02-20 12:17:17,174 main DEBUG book.BookStore (BookStore.java:149) - generating the purchase report
+2020-02-20 12:17:17,180 main DEBUG book.BookStore (BookStore.java:153) - Logging by purchaseOptions:
+2020-02-20 12:17:17,181 main DEBUG util.LoggingByOptions (LoggingByOptions.java:23) - isByTitle = true
+2020-02-20 12:17:17,182 main DEBUG util.LoggingByOptions (LoggingByOptions.java:24) - isByTitleDescending = true
+2020-02-20 12:17:17,182 main DEBUG util.LoggingByOptions (LoggingByOptions.java:27) - hasTotal = true
+2020-02-20 12:17:17,183 main DEBUG book.BookStore (BookStore.java:156) - 
+Purchase report closed
+
+2020-02-20 12:17:17,183 main INFO  book.BookStore (BookStore.java:84) - 2020-02-20T20:17:17.183801200Z
+2020-02-20 12:17:17,183 main INFO  book.BookStore (BookStore.java:85) - Duration: 52 ms
+2020-02-20 12:17:46,066 main INFO  book.BookStore (BookStore.java:62) - 2020-02-20T20:17:46.063795200Z
+2020-02-20 12:17:46,069 main INFO  book.BookStore (BookStore.java:63) - Starting Logging
+2020-02-20 12:17:46,069 main INFO  book.BookStore (BookStore.java:49) - Created Bcmc
+2020-02-20 12:17:46,075 main DEBUG book.BookStore (BookStore.java:109) - run()
+2020-02-20 12:17:46,076 main DEBUG data.Database (Database.java:23) - Starting data loading...
+2020-02-20 12:17:46,076 main DEBUG io.CustomerReader (CustomerReader.java:90) - Reading C:\Users\natha\eclipse-workspace\A01164474_assignment\out\customers.dat
+2020-02-20 12:17:46,082 main DEBUG data.Database (Database.java:26) - Customer has been loaded
+2020-02-20 12:17:46,091 main DEBUG io.BookReader (BookReader.java:40) - Reading C:\Users\natha\eclipse-workspace\A01164474_assignment\out\books500.csv
+2020-02-20 12:17:46,102 main DEBUG data.Database (Database.java:30) - Book has been loaded
+2020-02-20 12:17:46,104 main DEBUG io.PurchaseReader (PurchaseReader.java:40) - Reading C:\Users\natha\eclipse-workspace\A01164474_assignment\out\purchases.csv
+2020-02-20 12:17:46,105 main DEBUG data.Database (Database.java:34) - Purchase has been loaded
+2020-02-20 12:17:46,105 main DEBUG data.Database (Database.java:35) - All data has been loaded successfully!
+2020-02-20 12:17:46,106 main DEBUG book.BookStore (BookStore.java:122) - generating the reports
+2020-02-20 12:17:46,106 main DEBUG book.BookStore (BookStore.java:149) - generating the purchase report
+2020-02-20 12:17:46,114 main DEBUG book.BookStore (BookStore.java:153) - Logging by purchaseOptions:
+2020-02-20 12:17:46,116 main DEBUG util.LoggingByOptions (LoggingByOptions.java:30) - isByLastName = false
+2020-02-20 12:17:46,117 main DEBUG util.LoggingByOptions (LoggingByOptions.java:31) - isByLastNameDescending = false
+2020-02-20 12:17:46,117 main DEBUG util.LoggingByOptions (LoggingByOptions.java:32) - isByTitle = false
+2020-02-20 12:17:46,118 main DEBUG util.LoggingByOptions (LoggingByOptions.java:33) - isByTitleDescending = false
+2020-02-20 12:17:46,118 main DEBUG util.LoggingByOptions (LoggingByOptions.java:34) - hasTotal = false
+2020-02-20 12:17:46,122 main DEBUG book.BookStore (BookStore.java:156) - 
+Purchase report closed
+
+2020-02-20 12:17:46,122 main INFO  book.BookStore (BookStore.java:84) - 2020-02-20T20:17:46.122637100Z
+2020-02-20 12:17:46,122 main INFO  book.BookStore (BookStore.java:85) - Duration: 58 ms
+2020-02-20 12:19:40,075 main INFO  book.BookStore (BookStore.java:62) - 2020-02-20T20:19:40.072671600Z
+2020-02-20 12:19:40,078 main INFO  book.BookStore (BookStore.java:63) - Starting Logging
+2020-02-20 12:19:40,079 main INFO  book.BookStore (BookStore.java:49) - Created Bcmc
+2020-02-20 12:19:40,086 main DEBUG book.BookStore (BookStore.java:109) - run()
+2020-02-20 12:19:40,086 main DEBUG data.Database (Database.java:23) - Starting data loading...
+2020-02-20 12:19:40,087 main DEBUG io.CustomerReader (CustomerReader.java:90) - Reading C:\Users\natha\eclipse-workspace\A01164474_assignment\out\customers.dat
+2020-02-20 12:19:40,093 main DEBUG data.Database (Database.java:26) - Customer has been loaded
+2020-02-20 12:19:40,099 main DEBUG io.BookReader (BookReader.java:40) - Reading C:\Users\natha\eclipse-workspace\A01164474_assignment\out\books500.csv
+2020-02-20 12:19:40,112 main DEBUG data.Database (Database.java:30) - Book has been loaded
+2020-02-20 12:19:40,114 main DEBUG io.PurchaseReader (PurchaseReader.java:40) - Reading C:\Users\natha\eclipse-workspace\A01164474_assignment\out\purchases.csv
+2020-02-20 12:19:40,116 main DEBUG data.Database (Database.java:34) - Purchase has been loaded
+2020-02-20 12:19:40,117 main DEBUG data.Database (Database.java:35) - All data has been loaded successfully!
+2020-02-20 12:19:40,117 main DEBUG book.BookStore (BookStore.java:122) - generating the reports
+2020-02-20 12:19:40,118 main DEBUG book.BookStore (BookStore.java:149) - generating the purchase report
+2020-02-20 12:19:40,129 main DEBUG book.BookStore (BookStore.java:153) - Logging by purchaseOptions:
+2020-02-20 12:19:40,129 main DEBUG util.LoggingByOptions (LoggingByOptions.java:30) - isByLastName = false
+2020-02-20 12:19:40,130 main DEBUG util.LoggingByOptions (LoggingByOptions.java:31) - isByTitle = false
+2020-02-20 12:19:40,130 main DEBUG util.LoggingByOptions (LoggingByOptions.java:32) - isDescending = false
+2020-02-20 12:19:40,131 main DEBUG util.LoggingByOptions (LoggingByOptions.java:33) - hasTotal = false
+2020-02-20 12:19:40,132 main DEBUG book.BookStore (BookStore.java:156) - 
+Purchase report closed
+
+2020-02-20 12:19:40,132 main INFO  book.BookStore (BookStore.java:84) - 2020-02-20T20:19:40.132512400Z
+2020-02-20 12:19:40,133 main INFO  book.BookStore (BookStore.java:85) - Duration: 59 ms
